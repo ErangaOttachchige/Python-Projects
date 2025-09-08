@@ -14,7 +14,6 @@ def emoji_converter(message):
   return output
 
 
-
 message = input(">")
 result = emoji_converter(message)
 print(result)

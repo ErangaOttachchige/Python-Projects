@@ -27,3 +27,5 @@ for file in path3.glob('*.py'):    # with this method we can search for files an
 # we can optinally add an extension
 path3.glob('*.*')   # to get all the files with out directories in the current directory we use *.*
 path3.glob('*.py')  # to get all the .py files in the current directory we use *.py
+
+

@@ -1,4 +1,4 @@
-
+# .read(), .readline(), .readlines(), .readable()
 
 employee_file = open(r"C:\Users\Eranga Ottachchige\Desktop\Python Basics Mosh\Python-Projects\Reading and writing files\employees.txt", "r")
 
